@@ -1,0 +1,189 @@
+.Containeraccount {
+    position: relative;
+    top: 100px;
+    right: 100px;
+    height: 0vh;
+    width: 75vw;
+    margin:auto;
+    
+}
+
+
+.lexend {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: 500px;
+    font-weight: weight;
+    font-style: normal;
+  }
+
+  .headline{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top:-50px !important;
+    right:100px;
+    padding-left: 330px;
+    
+}
+
+.para{
+    display: flex;
+    justify-content: center;
+    color:rgb(111, 111, 111);
+    position: relative;
+    bottom:50px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+
+.avatar{
+     display: flex;
+     justify-content: center;
+     position: relative;
+     bottom:50px; 
+     padding-right:210px;
+}
+
+.gg{
+    display:flex;
+    justify-content: center;
+    position: relative;
+    left:98px;
+}
+
+.gg img{
+    position: relative;
+    right:80px;
+    bottom: 50px;
+    height:26vh ;
+    width: 11vw;
+
+}
+.btn input{
+    background-color: white;
+    position: relative;
+    right:10px;
+    bottom:30px;
+}
+
+.dflt a{
+    display: flex;
+    justify-content:center;
+    position: relative;
+    left:150px;
+    bottom:170px;
+    color:rgb(194, 192, 192);
+    
+    
+}
+.addloc{
+    display:flex;
+    justify-content: center;
+    position: relative;
+    right:80px;
+    bottom: 70px;
+}
+.locinp{
+    display:flex;
+    justify-content: center;
+    position: relative;
+    right:80px;
+    bottom: 50px;
+   
+}
+
+.locinp input{
+    background-color: white;
+    color: black;
+    border: 2px solid white;
+    border:0px ;
+    text-decoration: underline;
+}
+
+.locinp ::placeholder{
+    color: rgb(195, 191, 191);
+    text-decoration: underline;
+    border:none;
+}
+.underline {
+    text-decoration: underline;
+    border-bottom: 2px solid #000;
+    position: relative;
+    bottom: 50px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .input-field {
+    position: relative;
+    bottom: 20px;
+    border: none;
+    text-decoration: underline;
+    background: none;
+    outline: none;
+    padding: 0.5rem;
+    font-size: 1rem;
+    width: 100%;
+  }
+  .linee {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: rgb(255, 124, 146);
+    position: relative;
+    left:110px;
+    bottom: 125px;
+  }
+
+
+
+  .linee div{
+      padding-top: 30px;
+  }
+
+  .btnnext button{
+    position: relative;
+    right:180px;
+    background-color: rgb(255, 76, 106);
+    border:2px solid rgb(255, 255, 255);
+    color: white;
+    border-radius: 10px;
+    height: 5vh;
+    width: 10vw;
+  }
+
+.inter{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+.dribble{
+  display: flex;
+  justify-content: flex-start !important;
+  color: rgb(255, 97, 123) !important;
+  height: 5vh;
+  position: relative;
+  top: -10px !important;
+  left: 20px; /* position the element 20px from the left edge of its container */
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-size: x-large;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}

@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.container2{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  height: 0vh;
+  
+}
+/* .containerI {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+} */
+
+.container2 img {
+  position:relative;
+  right: 7px;
+  bottom: 7px;
+  height: 46rem;
+  width: 75lvb;
+}
+
+  .form {
+    align-self: center;
+    position: relative;
+  left:180px;
+  bottom: 820px;
+    border: none;
+    margin: 100px;
+    padding: 70px;
+    display: flex;
+    justify-content: center;
+  }
+
+
+.form p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 450;
+}
+
+label {
+  font-weight: 700;
+}
+
+.sp {
+  display: flex;
+  gap: 50px;
+}
+
+input {
+  background-color: rgb(230, 232, 232);
+  border-radius: 8px;
+  border: none;
+  height: 35px;
+}
+
+.container {
+  align-self: center;
+  position: relative;
+  left:180px;
+  bottom: 700px;
+  font-family: rubik;
+  font-size: x-large;
+  font-weight: 600;
+}
+
+.member {
+  align-self: flex-end;
+  position: relative;
+  right: 3px;
+  bottom:700px;
+}
+
+.lexend {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: 500px;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.btn1 {
+  background-color: rgb(255, 75, 105);
+  border:none;
+  text-decoration: none;
+  position: relative;
+  top: 370px;
+  right:240px;
+  border-radius: 12px;
+  color: white;
+  padding: 10px;
+  margin: 0px;
+  margin-left: -120px;
+  margin-bottom: -45px;
+  width: 12vw;
+}
+
+.btn1 Link{
+  text-decoration: none;
+}
+
+
